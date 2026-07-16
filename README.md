@@ -7,6 +7,13 @@
 
 -- Passionate about technical research, knowledge sharing, and emerging technologies, including quantum computing and post-quantum cybersecurity, with a focus on building resilient, future-ready security programs.
 
+## 🌐 Certifications:
+
+![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-B22222?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Purple Team](https://img.shields.io/badge/Purple%20Team-Certified%20Purple%20Team%20Fundamentals-6F42C1?style=for-the-badge&logo=target&logoColor=white)
+![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Professional%20Cybersecurity%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![CSSP](https://img.shields.io/badge/CSSP-Certified%20Security%20%26%20Safety%20Practitioner-0B7D3E?style=for-the-badge&logo=shield&logoColor=white)
+![Ajax Systems](https://img.shields.io/badge/Ajax%20Systems-Specialist-111111?style=for-the-badge&logo=ajax&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a944c863) [![Credly](https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/2e0d77ef)
