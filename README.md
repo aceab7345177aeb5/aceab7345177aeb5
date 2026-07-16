@@ -1,7 +1,10 @@
 # 💫 About Me:
 -- Cybersecurity professional specializing in Red Team operations, Governance, Risk & Compliance (GRC), Cyber Threat Intelligence, and integrated security systems.
+
 -- Certified Security and Safety Practitioner (CSSP) and Certified Red Team Analyst (CRTA) with experience in security assessments, risk management, security policy development, and cyber threat analysis.
+
 -- Expertise in surveillance, access control, intrusion detection, and fire alarm systems, bridging cybersecurity and physical security.
+
 -- Passionate about technical research, knowledge sharing, and emerging technologies, including quantum computing and post-quantum cybersecurity, with a focus on building resilient, future-ready security programs.
 
 
